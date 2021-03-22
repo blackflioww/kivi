@@ -1,14 +1,14 @@
 [
   {
   "noteId" : 1,
-  "noteHead" : "Başlık"
+  "noteHead" : "Başlık",
   "noteBody" : "Not bedeni"
   
   },
   
   {
   "noteId" : 2,
-  "noteHead" : "Başlık2"
+  "noteHead" : "Başlık2",
   "noteBody" : "Not bedeni 2"
   
   }
