@@ -11,5 +11,12 @@
   "noteHead" : "Başlık2",
   "noteBody" : "Not bedeni 2"
   
+  },
+  
+  {
+  "noteId" : 3,
+  "noteHead" : "Sabit Düşünceler",
+  "noteBody" : "Her sabit düşünce, sahibi için bir zindandır."
+  
   }
 ]
