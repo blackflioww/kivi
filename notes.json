@@ -1,22 +1,26 @@
 [
   {
+  "noteId" : 1
   "noteHead" : "En Önemli Çalışma Kuralları",
   "noteBody" : "Öncelikle karar vermek gerekir. Ders çalışma bir iştir. Bu işe başlamak için onunla inatlaşmamak, istek gelmesini beklememek gerekir. Karar verdiğiniz an uygun andır. \n Çalışılacak ders ve amaç belirlenmelidir. Çalışmaya harcanan zaman değil, ne yapıldığı önemlidir. Aileler sık sık süreyi az bulurlar. Ama uzun süre masa başında oturmak demek, çalışmak demek değildir."
   
   },
   {
+    "noteId" : 42
   "noteHead" : "Başlık",
   "noteBody" : "Not bedeni"
   
   },
   
   {
+    "noteId" : 24
   "noteHead" : "Başlık2",
   "noteBody" : "Not bedeni 2"
   
   },
   
   {
+    "noteId" : 25
   "noteHead" : "Sabit Düşünceler",
   "noteBody" : "Her sabit düşünce, sahibi için bir zindandır."
   
