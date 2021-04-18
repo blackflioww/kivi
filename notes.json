@@ -7,22 +7,22 @@
   },
   {
     "noteId" : 42,
-  "noteHead" : "Başlık",
-  "noteBody" : "Not bedeni"
+  "noteHead" : "Verimli Ders Nasıl Çalışılır?",
+  "noteBody" : "1)Öğrencinin kendi kişiliğine en uygun çalışma yeri ve saati seçilmelidir.\n 2)Her ders için yapılması gereken ders yükü hesaplanmalı, iyi not almak için ne kadar çalışması gerektiği tahmin edilmelidir. \n 3) Öncelikle en zor gelen dersten çalışmaya başlanmalı, bu ders için her gün belirli bir çalışma süresi ayrılmalıdır. Başlangıçta zor gelen ders için en fazla süre ayrılmalı derse karşı yeterli ilgili uyandıktan sonra diğer derslere göre bu süre dengelenmelidir. "
   
   },
   
   {
     "noteId" : 24,
-  "noteHead" : "Başlık2",
-  "noteBody" : "Not bedeni 2"
+  "noteHead" : "Amaçlarınızı Belirleyin",
+  "noteBody" : "Başarılı olabilmek için mutlaka amacın açık ve net bir tanımının yapılmış olması, kişinin buna inanması gerekir. Amaçlar davranışları başlatır, sonuçlarda bu davranışların etkisiyle elde edilir. Plan, sanıldığı gibi sadece ders çalışma sürelerini planlamak için yapılmaz. Planın en önemli işlevi aynı zamanda kendinize zaman ayırmaktır. Hangi dersi ne zaman ve nasıl çalışmanız gerektiğini düşündükten sonra sıra plan yapmaya gelir. Plan yaparken hangi aralıklarda hangi derse çalışacağınızı, dinlenmek için ne kadar vakit ayıracağınızı ve uyuyup uynacağınız saati belirlemelisiniz."
   
   },
   
   {
     "noteId" : 25,
-  "noteHead" : "Sabit Düşünceler",
-  "noteBody" : "Her sabit düşünce, sahibi için bir zindandır."
+  "noteHead" : "Tekrar Yapın",
+  "noteBody" : "Mutlaka dersini gördüğünüz konuları akşam terkar edin. Öğrendiklerinizin kalıcı hafızaya yerleşmesi için aynı gün içinde tekrar edilmesi önemli bir aktivitedir. Özellikle önünüzde hazrlandığınız bir sınav varsa düzenli aralıklarla çalıştığınız konuları tekrar etmeniz sizin için faydalı olacaktır."
   
   }
   
